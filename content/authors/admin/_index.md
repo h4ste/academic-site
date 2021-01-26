@@ -1,77 +1,48 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Travis R. Goodwin
+role: Independent Research Scholar at the U.S. National Library of Medicine
+bio: My research interests include medical informatics, deep learning, natural
+  language processing, and information retrieval.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/tgood1988
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=ySKbgokAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/h4ste
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/travis-goodwin-06ab2415b/
+organizations:
+  - name: U.S. National Library of Medicine
+    url: https://www.nlm.nih.gov/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Computer Science
+      institution: University of Texas at Dallas
+      year: 2018
+    - course: MS in Intelligent Systems
+      institution: University of Texas at Dallas
+      year: 2013
+    - course: BS in Computer Science
+      institution: University of Texas at Dallas
+      year: 2011
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+Travis R. Goodwin is an Independent Research Scholar at the U.S. National Library of Medicine. His research interests include medical informatics, deep learning, natural language processing, and information retrieval. Specifically, his research focuses on modeling health and disease processes by developing deep learning-enhanced artificial intelligence approaches capable of harnessing a wide variety of data – in particular, data not typically used for predictive modeling. Specifically, Dr. Goodwin explores whether the information documented in *unstructured* parts of electronic health records (EHRs) (e.g., free-text narratives in discharge summaries, radiology reports, progress notes, etc.) can supplement or exceed the traditional information contained in *structured* (i.e., tabular) parts of the EHR (e.g., vital signs, chart data, laboratory data, etc.) by enabling more complete and robust data-driven models of disease processes and prognostication. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He has developed deep neural networks for modeling the onset of hospital acquired pneumonia (HAP), acute kidney injuries (HAAKI), pressure injuries (HAPI), and anemia (HAA) based only on raw unstructured clinical texts (without disease-specific feature engineering). He is presently am working on preparing a public benchmark collection of extracted clinical text and time-series labels as well as public leaderboards to track the state and fairness of clinical language understanding in several clinical settings, including disease staging, clinical phenotyping, all-cause mortality prediction, and length-of-stay prediction.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
