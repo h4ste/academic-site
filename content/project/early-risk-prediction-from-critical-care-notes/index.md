@@ -10,6 +10,11 @@ featured: false
 tags: []
 categories: []
 external_link: wetgw
+links:
+  - url: https://twitter.com/tgood1988
+    name: Follow
+    icon_pack: fab
+    icon: twitter
 image:
   filename: featured
   focal_point: Smart
