@@ -29,7 +29,7 @@ links: []
 publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects:
-  - Early Risk Prediction from Critical Care Notes
+  - early-risk-prediction-from-critical-care-notes
 image:
   caption: ""
   focal_point: Right
