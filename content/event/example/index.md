@@ -1,9 +1,6 @@
 ---
 abstract: >-
-  As clinical data warehouses continue to grow, so, too, does the need for
-  scalable data processing. 
-
-  In this poster we explore the use of Apache Spark's distributed SQL engine for interacting with the MIMIC-III critical care database. We explore the impact of distributed data processing enabled using Apache SparkSQL, providing our software for loading MIMIC data into a persistent distributed database, as well as example applications and interactive Apache Zeppelin notebooks.
+  As clinical data warehouses continue to grow, so, too, does the need for scalable data processing. We explore the use of Apache Spark's distributed SQL engine for interacting with the MIMIC-III critical care database. We explore the impact of distributed data processing enabled using Apache SparkSQL, providing our software for loading MIMIC data into a persistent distributed database, as well as example applications and interactive Apache Zeppelin notebooks.
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
@@ -19,12 +16,6 @@ featured: false
 authors: []
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
 links: []
 publishDate: 2017-01-01T00:00:00Z
 tags: []
