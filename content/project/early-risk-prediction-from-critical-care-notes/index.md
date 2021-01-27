@@ -1,13 +1,14 @@
 ---
 title: Early Risk Prediction from Critical Care Notes
-subtitle: Developing data-driven approaches for modeling disease processes from
+subtitle: ""
+date: 2021-01-27T18:48:17.424Z
+summary: Developing data-driven approaches for modeling disease processes from
   longitudinal clinical data to enable robust prognostication without
   disease-specific feature engineering.
-date: 2021-01-27T18:48:17.424Z
-summary: ""
 draft: false
 featured: false
-tags: []
+tags:
+  - Deep Learning
 categories: []
 external_link: wetgw
 links:
