@@ -6,20 +6,17 @@ summary: Developing data-driven approaches for modeling disease processes from
   longitudinal clinical data to enable robust prognostication without
   disease-specific feature engineering.
 draft: false
-featured: false
+featured: true
 tags:
   - Deep Learning
 categories: []
-external_link: wetgw
-links:
-  - url: https://twitter.com/tgood1988
-    name: Follow
-    icon_pack: fab
-    icon: twitter
+external_link: "#"
+links: []
 image:
-  filename: featured
+  filename: cantrip.png
   focal_point: Smart
   preview_only: false
+  caption: A reCurrent Additive Network for Temporal RIsk Prediction (CANTRIP)
 ---
 The Centers for Disease Control (CDC) estimates that one in every twenty-five acute care hospitalizations results in a healthcare-associated infection (HAI) and that at least 50% of HAIs are preventable.9,10 Other types of preventable hospital acquired or associated disease have been reported with high prevalence.11–13 Modeling such nosocomial (i.e., healthcare-associated) diseases has the potential to reduce costs and lead to improved patient outcomes by enabling early risk prediction.
 
