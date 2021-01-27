@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-27T21:23:27.710821Z'
+publishDate: '2021-01-27T23:37:25.430539Z'
 publication_types:
 - '2'
 abstract: We explored how judgements provided by physicians can be used to learn relevance

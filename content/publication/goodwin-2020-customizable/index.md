@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-27T21:23:27.543964Z'
+publishDate: '2021-01-27T23:37:25.253401Z'
 publication_types:
 - '2'
 abstract: Reliable longitudinal risk prediction for hospitalized patients is needed
