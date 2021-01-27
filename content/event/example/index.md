@@ -29,9 +29,10 @@ links: []
 publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects:
-  - example
+  - Early Risk Prediction from Critical Care Notes
 image:
   caption: ""
   focal_point: Right
+  filename: zeppelin_1.png
 url_code: ""
 ---
