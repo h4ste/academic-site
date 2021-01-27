@@ -39,12 +39,6 @@ social:
     icon_pack: ai
     icon: semantic-scholar
     label: Semantic Scholar
-  - display:
-      header: false
-    link: https://orcid.org/0000-0002-0047-1078
-    label: ORCiD
-    icon: orcid
-    icon_pack: ai
 organizations:
   - name: U.S. National Library of Medicine
     url: https://www.nlm.nih.gov/
