@@ -1,0 +1,16 @@
+@article{goodwin2020customizable,
+ abstract = {Reliable longitudinal risk prediction for hospitalized patients is needed to provide quality care. Our goal is to develop a generalizable model capable of leveraging clinical notes to predict healthcare-associated diseases 24–96 hours in advance.We developed a reCurrent Additive Network for Temporal RIsk Prediction (CANTRIP) to predict the risk of hospital acquired (occurring ≥ 48 hours after admission) acute kidney injury, pressure injury, or anemia ≥ 24 hours before it is implicated by the patient’s chart, labs, or notes. We rely on the MIMIC III critical care database and extract distinct positive and negative cohorts for each disease. We retrospectively determine the date-of-event using structured and unstructured criteria and use it as a form of indirect supervision to train and evaluate CANTRIP to predict disease risk using clinical notes.Our experiments indicate that CANTRIP, operating on text alone, obtains 74%–87% area under the curve and 77%–85% Specificity. Baseline shallow models showed lower performance on all metrics, while bidirectional long short-term memory obtained the highest Sensitivity at the cost of significantly lower Specificity and Precision.Proper model architecture allows clinical text to be successfully harnessed to predict nosocomial disease, outperforming shallow models and obtaining similar performance to disease-specific models reported in the literature.Clinical text on its own can provide a competitive alternative to traditional structured features (eg, lab values, vital signs). CANTRIP is able to generalize across nosocomial diseases without disease-specific feature extraction and is available at https://github.com/h4ste/cantrip.},
+ author = {Goodwin, Travis R and Demner-Fushman, Dina},
+ doi = {10.1093/jamia/ocaa004},
+ eprint = {https://academic.oup.com/jamia/article-pdf/27/4/567/34152273/ocaa004.pdf},
+ issn = {1527-974X},
+ journal = {Journal of the American Medical Informatics Association},
+ month = {02},
+ number = {4},
+ pages = {567-576},
+ title = {A Customizable Deep Learning Model for Nosocomial Risk Prediction from Critical Care Notes with Indirect Supervision},
+ url = {https://doi.org/10.1093/jamia/ocaa004},
+ volume = {27},
+ year = {2020}
+}
+
