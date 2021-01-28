@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:32.935034Z'
+publishDate: '2021-01-28T17:47:32.919268Z'
 publication_types:
 - '1'
 abstract: This paper addresses the task of answering consumer health questions about

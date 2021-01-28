@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:29.592136Z'
+publishDate: '2021-01-28T17:47:29.663244Z'
 publication_types:
 - '1'
 abstract: 'Recent work has shown that pre-trained Transformers obtain remarkable performance

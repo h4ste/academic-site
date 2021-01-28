@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:31.081330Z'
+publishDate: '2021-01-28T17:47:31.137055Z'
 publication_types:
 - '1'
 abstract: This paper describes the medical information retrieval (MIR) systems designed

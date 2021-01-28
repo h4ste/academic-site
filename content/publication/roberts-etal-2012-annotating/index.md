@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:30.418302Z'
+publishDate: '2021-01-28T17:47:30.476740Z'
 publication_types:
 - '1'
 abstract: "A significant amount of spatial information in textual documents is hidden\

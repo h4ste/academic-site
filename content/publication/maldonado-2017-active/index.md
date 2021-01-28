@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:32.435060Z'
+publishDate: '2021-01-28T17:47:32.430685Z'
 publication_types:
 - '1'
 abstract: The annotation of a large corpus of Electroencephalography (EEG) reports

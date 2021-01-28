@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:30.581855Z'
+publishDate: '2021-01-28T17:47:30.643614Z'
 publication_types:
 - '1'
 abstract: The Choice of Plausible Alternatives (COPA) task in SemEval-2012 presents

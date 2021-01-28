@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:30.090109Z'
+publishDate: '2021-01-28T17:47:30.152203Z'
 publication_types:
 - '1'
 abstract: 'Our ability to understand language often relies on common-sense knowledge

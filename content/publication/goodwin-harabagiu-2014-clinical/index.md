@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:30.254664Z'
+publishDate: '2021-01-28T17:47:30.318560Z'
 publication_types:
 - '1'
 abstract: Electronic Medical Records (EMRs) encode an extraordinary amount of medical

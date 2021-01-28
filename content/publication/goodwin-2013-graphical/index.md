@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:28.912186Z'
+publishDate: '2021-01-28T17:47:28.991158Z'
 publication_types:
 - '2'
 abstract: The introduction of electronic medical records (EMRs) enabled the access

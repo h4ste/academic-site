@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:32.093770Z'
+publishDate: '2021-01-28T17:47:32.097382Z'
 publication_types:
 - '1'
 abstract: Successful diagnosis and management of neurological dysfunction relies on

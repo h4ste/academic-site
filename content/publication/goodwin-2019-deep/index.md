@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:31.572535Z'
+publishDate: '2021-01-28T17:47:31.609924Z'
 publication_types:
 - '1'
 abstract: Hospital acquired pneumonia (HAP) is the second most common nosocomial infection

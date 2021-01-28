@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:33.102269Z'
+publishDate: '2021-01-28T17:47:33.079047Z'
 publication_types:
 - '1'
 abstract: The goal of modern Clinical Decision Support (CDS) systems is to provide

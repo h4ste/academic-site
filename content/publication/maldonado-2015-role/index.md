@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:24:33.436298Z'
+publishDate: '2021-01-28T17:47:33.409663Z'
 publication_types:
 - '1'
 abstract: 'Electronic Operative Notes are generated after surgical procedures for
