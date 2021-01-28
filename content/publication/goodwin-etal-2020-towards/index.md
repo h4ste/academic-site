@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-27T23:37:25.951523Z'
+publishDate: '2021-01-28T17:24:29.925043Z'
 publication_types:
 - '1'
 abstract: Automatic summarization research has traditionally focused on providing

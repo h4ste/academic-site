@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:10:18.745588Z'
+publishDate: '2021-01-28T17:24:33.770789Z'
 publication_types:
 - '1'
 abstract: Retrieving relevant patient cohorts has the potential to accelerate clinical

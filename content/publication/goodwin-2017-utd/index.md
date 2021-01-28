@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T16:09:35.681107Z'
+publishDate: '2021-01-28T17:24:31.246556Z'
 publication_types:
 - '1'
 abstract: In this paper, we describe the system designed for the TREC 2017 Precision

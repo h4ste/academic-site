@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T16:09:35.353818Z'
+publishDate: '2021-01-28T17:24:30.922954Z'
 publication_types:
 - '1'
 abstract: This paper describes the updated system created by the University of Texas

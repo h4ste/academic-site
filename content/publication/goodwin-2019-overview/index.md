@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T17:17:21.953575Z'
+publishDate: '2021-01-28T17:24:33.933163Z'
 publication_types:
 - '1'
 abstract: 'This paper describes the Drug-Drug Interaction Extraction from Drug Labels

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T16:41:47.136537Z'
+publishDate: '2021-01-28T17:24:31.905506Z'
 publication_types:
 - '1'
 abstract: As medical science continues to advance, health care professionals and researchers

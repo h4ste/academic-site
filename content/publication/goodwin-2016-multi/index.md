@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T16:41:47.460801Z'
+publishDate: '2021-01-28T17:24:32.268114Z'
 publication_types:
 - '1'
 abstract: Clinical electroencephalography (EEG) is the most important investigation
