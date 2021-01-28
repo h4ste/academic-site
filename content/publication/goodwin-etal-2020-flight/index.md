@@ -13,7 +13,7 @@ tags: []
 categories: []
 date: '2020-12-01'
 lastmod: 2021-01-27T18:35:24-05:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
