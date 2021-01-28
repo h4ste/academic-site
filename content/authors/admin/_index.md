@@ -1,7 +1,7 @@
 ---
 title: Travis R. Goodwin
 role: Independent Research Scholar
-avatar_filename: goodwint_v2-2-.jpg
+avatar_filename: ""
 bio: My research interests include medical informatics, deep learning, natural
   language processing, and information retrieval.
 interests:
