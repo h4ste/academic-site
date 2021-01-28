@@ -11,7 +11,7 @@ tags: []
 categories: []
 date: '2017-11-01'
 lastmod: 2021-01-28T11:41:47-05:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["eeg-processing"]
 publishDate: '2021-01-28T17:47:32.097382Z'
 publication_types:
 - '1'

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Automatic Generation of a Qualified Medical Knowledge Graph and ts Usage for
+title: Automatic Generation of a Qualified Medical Knowledge Graph and Its Usage for
   Retrieving Patient Cohorts from Electronic Medical Records
 subtitle: ''
 summary: ''
@@ -28,7 +28,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["medical-qa", "medical-ir"]
 publishDate: '2021-01-28T17:47:33.571010Z'
 publication_types:
 - '1'
